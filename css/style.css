@@ -1,0 +1,5 @@
+body { background-color: lightskyblue; margin: 0 auto; }
+
+.container { max-width: 1200px; margin: 0 auto; color: white; }
+
+.carousel-cell { width: 100%; /* full width */ min-height: 250px; height: 50vh; /* height of carousel */ padding: 0 80px; background-size: cover; }
